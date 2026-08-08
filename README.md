@@ -58,4 +58,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0056-merge-intervals) |
+## Two Pointers
+|  |
+| ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+## String
+|  |
+| ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+## Greedy
+|  |
+| ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 <!---LeetCode Topics End-->
