@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0633-sum-of-square-numbers](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0633-sum-of-square-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0633-sum-of-square-numbers](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0633-sum-of-square-numbers) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## String
 |  |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0633-sum-of-square-numbers](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Ternary Search
