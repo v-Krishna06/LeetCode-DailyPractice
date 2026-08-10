@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0704-binary-search](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0912-sort-an-array](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0912-sort-an-array) |
 | [1200-minimum-absolute-difference](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1200-minimum-absolute-difference) |
 | [1664-ways-to-make-a-fair-array](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1664-ways-to-make-a-fair-array) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0912-sort-an-array) |
 | [1200-minimum-absolute-difference](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1200-minimum-absolute-difference) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [3731-find-missing-elements](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/3731-find-missing-elements) |
@@ -96,12 +98,30 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0912-sort-an-array) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0215-kth-largest-element-in-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
