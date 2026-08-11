@@ -13,10 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1200-minimum-absolute-difference) |
 | [1664-ways-to-make-a-fair-array](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1664-ways-to-make-a-fair-array) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -27,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0912-sort-an-array) |
 | [1200-minimum-absolute-difference](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1200-minimum-absolute-difference) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/3731-find-missing-elements) |
 ## Tree
 |  |
