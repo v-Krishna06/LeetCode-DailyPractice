@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0056-merge-intervals](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0056-merge-intervals) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0056-merge-intervals) |
 | [0147-insertion-sort-list](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0147-insertion-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0215-kth-largest-element-in-an-array) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0016-3sum-closest) |
 | [0141-linked-list-cycle](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0141-linked-list-cycle) |
 | [0633-sum-of-square-numbers](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0633-sum-of-square-numbers) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
