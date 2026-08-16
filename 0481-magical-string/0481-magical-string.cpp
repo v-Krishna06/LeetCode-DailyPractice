@@ -1,27 +1,29 @@
 class Solution {
 public:
     int magicalString(int n) {
-        if(n<=3){
+        if(n <= 3)
             return 1;
-        }
-        queue<int>q;
-        int count = 1;
-        int curr = 1;
-        q.push(2);
-        for(int i = 2;i<n;i++){
-            int currcnt = q.front();
-            q.pop();
-            for(int j = 0;j<currcnt;j++){
-                q.push(curr);
-                if(currcnt==1){
-                    count++;
-                }
-                
-            }
-            curr = (curr == 1 ? 2 : 1);
-            
-        }
-        return count;
 
+        vector<int> s = {1, 2, 2};
+
+        int i = 2;
+        int num = 1;
+        int count = 1;
+
+        while(s.size() < n) {
+            int freq = s[i];
+
+            for(int j = 0; j < freq && s.size() < n; j++) {
+                s.push_back(num);
+
+                if(num == 1)
+                    count++;
+            }
+
+            num = 3 - num;
+            i++;
+        }
+
+        return count;
     }
 };
