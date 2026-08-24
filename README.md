@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0043-multiply-strings) |
 | [0633-sum-of-square-numbers](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0633-sum-of-square-numbers) |
 | [0932-beautiful-array](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0932-beautiful-array) |
 | [1927-sum-game](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1927-sum-game) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0043-multiply-strings) |
 | [0481-magical-string](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0481-magical-string) |
 | [1927-sum-game](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -207,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1927-sum-game) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
