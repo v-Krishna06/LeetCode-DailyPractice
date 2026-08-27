@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0141-linked-list-cycle) |
 | [0219-contains-duplicate-ii](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0006-zigzag-conversion) |
 | [0043-multiply-strings](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0043-multiply-strings) |
+| [0424-longest-repeating-character-replacement](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0424-longest-repeating-character-replacement) |
 | [0481-magical-string](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0481-magical-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1927-sum-game](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1927-sum-game) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
