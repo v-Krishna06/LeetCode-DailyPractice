@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1200-minimum-absolute-difference) |
 | [1664-ways-to-make-a-fair-array](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1664-ways-to-make-a-fair-array) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1405-longest-happy-string](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1405-longest-happy-string) |
 | [1927-sum-game](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1927-sum-game) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Binary Search
 |  |
