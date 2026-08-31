@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0141-linked-list-cycle) |
 | [0147-insertion-sort-list](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0147-insertion-sort-list) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Sliding Window
 |  |
 | ------- |
