@@ -64,11 +64,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0101-symmetric-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0101-symmetric-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0144-binary-tree-preorder-traversal) |
 | [3310-remove-methods-from-project](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0101-symmetric-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0144-binary-tree-preorder-traversal) |
 ## Graph Theory
 |  |
 | ------- |
@@ -266,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0039-combination-sum) |
+## Stack
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
