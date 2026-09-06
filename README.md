@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0219-contains-duplicate-ii) |
+| [0347-top-k-frequent-elements](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0141-linked-list-cycle) |
 | [0219-contains-duplicate-ii](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0219-contains-duplicate-ii) |
+| [0347-top-k-frequent-elements](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0056-merge-intervals) |
 | [0147-insertion-sort-list](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0147-insertion-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0912-sort-an-array) |
 | [1200-minimum-absolute-difference](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1200-minimum-absolute-difference) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0912-sort-an-array) |
 | [0932-beautiful-array](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0932-beautiful-array) |
@@ -182,12 +186,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0912-sort-an-array) |
 | [1405-longest-happy-string](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1405-longest-happy-string) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0347-top-k-frequent-elements) |
 ## Merge Sort
 |  |
 | ------- |
@@ -196,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
@@ -204,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0912-sort-an-array) |
 ## Linked List
 |  |
