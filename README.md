@@ -291,4 +291,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0144-binary-tree-preorder-traversal) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
