@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0101-symmetric-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0144-binary-tree-preorder-traversal) |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0144-binary-tree-preorder-traversal) |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/3310-remove-methods-from-project) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0101-symmetric-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0144-binary-tree-preorder-traversal) |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Graph Theory
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0316-remove-duplicate-letters) |
 | [0424-longest-repeating-character-replacement](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0424-longest-repeating-character-replacement) |
 | [0481-magical-string](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0481-magical-string) |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1392-longest-happy-prefix](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1392-longest-happy-prefix) |
