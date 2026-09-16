@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0633-sum-of-square-numbers) |
 | [0836-rectangle-overlap](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0836-rectangle-overlap) |
 | [0932-beautiful-array](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0932-beautiful-array) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1927-sum-game](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1927-sum-game) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1664-ways-to-make-a-fair-array](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1664-ways-to-make-a-fair-array) |
 | [3903-smallest-stable-index-i](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/3904-smallest-stable-index-ii) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0045-jump-game-ii) |
 | [0097-interleaving-string](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0097-interleaving-string) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
 |  |
@@ -345,4 +348,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0836-rectangle-overlap) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
