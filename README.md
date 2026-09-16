@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0056-merge-intervals) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0162-find-peak-element](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0162-find-peak-element) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0055-jump-game) |
 | [0097-interleaving-string](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0097-interleaving-string) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0055-jump-game) |
 | [0316-remove-duplicate-letters](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1405-longest-happy-string](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1405-longest-happy-string) |
