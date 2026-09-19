@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0633-sum-of-square-numbers) |
 | [0836-rectangle-overlap](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0836-rectangle-overlap) |
 | [0932-beautiful-array](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0932-beautiful-array) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1927-sum-game](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1927-sum-game) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Combinatorics
 |  |
 | ------- |
