@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0079-word-search) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0162-find-peak-element](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0219-contains-duplicate-ii) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0101-symmetric-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0144-binary-tree-preorder-traversal) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0101-symmetric-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0144-binary-tree-preorder-traversal) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0493-reverse-pairs) |
@@ -378,4 +382,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0079-word-search) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
