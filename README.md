@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0043-multiply-strings) |
+| [0062-unique-paths](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0062-unique-paths) |
 | [0400-nth-digit](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0400-nth-digit) |
 | [0633-sum-of-square-numbers](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0633-sum-of-square-numbers) |
 | [0836-rectangle-overlap](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0836-rectangle-overlap) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0062-unique-paths) |
 | [0097-interleaving-string](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0097-interleaving-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0062-unique-paths) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Matrix
 |  |
