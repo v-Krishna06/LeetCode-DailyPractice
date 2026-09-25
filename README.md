@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1405-longest-happy-string](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1405-longest-happy-string) |
 | [1927-sum-game](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/2223-sum-of-scores-of-built-strings) |
 | [2299-strong-password-checker-ii](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/2299-strong-password-checker-ii) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/2223-sum-of-scores-of-built-strings) |
 | [3488-closest-equal-element-queries](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/3488-closest-equal-element-queries) |
 ## Ternary Search
 |  |
@@ -345,22 +347,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1392-longest-happy-prefix](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1392-longest-happy-prefix) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/2223-sum-of-scores-of-built-strings) |
 ## String Matching
 |  |
 | ------- |
 | [1392-longest-happy-prefix](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1392-longest-happy-prefix) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/2223-sum-of-scores-of-built-strings) |
 ## Hash Function
 |  |
 | ------- |
 | [1392-longest-happy-prefix](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1392-longest-happy-prefix) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/2223-sum-of-scores-of-built-strings) |
 ## Z Algorithm
 |  |
 | ------- |
 | [1392-longest-happy-prefix](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1392-longest-happy-prefix) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/2223-sum-of-scores-of-built-strings) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [1392-longest-happy-prefix](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1392-longest-happy-prefix) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/2223-sum-of-scores-of-built-strings) |
 ## Backtracking
 |  |
 | ------- |
@@ -409,4 +416,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Suffix Array
+|  |
+| ------- |
+| [2223-sum-of-scores-of-built-strings](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/2223-sum-of-scores-of-built-strings) |
 <!---LeetCode Topics End-->
