@@ -12,6 +12,7 @@ public:
         solve(i+1,n,k,ans,temp);
         temp.pop_back();
         solve(i+1,n,k,ans,temp);
+        return;
 
 
     }
