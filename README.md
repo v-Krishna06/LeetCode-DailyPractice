@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0043-multiply-strings) |
 | [0079-word-search](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0093-restore-ip-addresses) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0062-unique-paths) |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0039-combination-sum) |
 | [0077-combinations](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0078-subsets) |
@@ -456,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
