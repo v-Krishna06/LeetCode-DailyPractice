@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0141-linked-list-cycle) |
+| [0187-repeated-dna-sequences](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0424-longest-repeating-character-replacement) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0097-interleaving-string) |
+| [0187-repeated-dna-sequences](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0187-repeated-dna-sequences) |
 | [0316-remove-duplicate-letters](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0424-longest-repeating-character-replacement) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -352,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0078-subsets) |
+| [0187-repeated-dna-sequences](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0187-repeated-dna-sequences) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Game Theory
 |  |
@@ -368,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Rolling Hash
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0187-repeated-dna-sequences) |
 | [1392-longest-happy-prefix](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1392-longest-happy-prefix) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/2223-sum-of-scores-of-built-strings) |
 ## String Matching
@@ -378,11 +383,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0187-repeated-dna-sequences) |
 | [1392-longest-happy-prefix](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1392-longest-happy-prefix) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/2223-sum-of-scores-of-built-strings) |
 ## Z Algorithm
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0187-repeated-dna-sequences) |
 | [1392-longest-happy-prefix](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1392-longest-happy-prefix) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/2223-sum-of-scores-of-built-strings) |
 ## Knuth–Morris–Pratt Algorithm
@@ -462,4 +469,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
