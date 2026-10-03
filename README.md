@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0144-binary-tree-preorder-traversal) |
+| [0785-is-graph-bipartite](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0785-is-graph-bipartite) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0101-symmetric-tree) |
+| [0785-is-graph-bipartite](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0785-is-graph-bipartite) |
 | [3310-remove-methods-from-project](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0785-is-graph-bipartite](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0785-is-graph-bipartite) |
 | [3310-remove-methods-from-project](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/3310-remove-methods-from-project) |
 ## Math
 |  |
@@ -473,4 +476,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0187-repeated-dna-sequences) |
+## Union-Find
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0785-is-graph-bipartite) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
