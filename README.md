@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0424-longest-repeating-character-replacement) |
 | [0481-magical-string](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0481-magical-string) |
+| [0678-valid-parenthesis-string](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0678-valid-parenthesis-string) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0064-minimum-path-sum) |
 | [0097-interleaving-string](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0097-interleaving-string) |
+| [0678-valid-parenthesis-string](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0678-valid-parenthesis-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0055-jump-game) |
 | [0316-remove-duplicate-letters](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0316-remove-duplicate-letters) |
+| [0678-valid-parenthesis-string](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1405-longest-happy-string](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1405-longest-happy-string) |
 | [1927-sum-game](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1927-sum-game) |
@@ -417,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0316-remove-duplicate-letters](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0394-decode-string) |
+| [0678-valid-parenthesis-string](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -470,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Boyer–Moore String-Search Algorithm
