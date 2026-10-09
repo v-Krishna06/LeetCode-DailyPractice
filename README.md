@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-longest-happy-prefix](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1392-longest-happy-prefix) |
 | [1405-longest-happy-string](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1405-longest-happy-string) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1405-longest-happy-string](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1405-longest-happy-string) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1927-sum-game](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Database
 |  |
@@ -487,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Boyer–Moore String-Search Algorithm
 |  |
