@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/2094-finding-3-digit-even-numbers) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [2094-finding-3-digit-even-numbers](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/2094-finding-3-digit-even-numbers) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/3731-find-missing-elements) |
 ## Tree
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1927-sum-game](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Binary Search
 |  |
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/2223-sum-of-scores-of-built-strings) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3488-closest-equal-element-queries](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/3488-closest-equal-element-queries) |
 ## Ternary Search
 |  |
@@ -297,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0912-sort-an-array) |
 | [1405-longest-happy-string](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1405-longest-happy-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Quickselect
 |  |
 | ------- |
