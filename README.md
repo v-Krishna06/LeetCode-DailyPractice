@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0347-top-k-frequent-elements) |
+| [0472-concatenated-words](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0472-concatenated-words) |
 | [0493-reverse-pairs](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0147-insertion-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0347-top-k-frequent-elements) |
+| [0472-concatenated-words](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0472-concatenated-words) |
 | [0912-sort-an-array](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0912-sort-an-array) |
 | [1200-minimum-absolute-difference](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1200-minimum-absolute-difference) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0404-sum-of-left-leaves) |
+| [0472-concatenated-words](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0472-concatenated-words) |
 | [0785-is-graph-bipartite](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0785-is-graph-bipartite) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0424-longest-repeating-character-replacement) |
+| [0472-concatenated-words](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0472-concatenated-words) |
 | [0481-magical-string](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0481-magical-string) |
 | [0678-valid-parenthesis-string](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0856-score-of-parentheses) |
@@ -252,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0064-minimum-path-sum) |
 | [0097-interleaving-string](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0097-interleaving-string) |
+| [0472-concatenated-words](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0472-concatenated-words) |
 | [0678-valid-parenthesis-string](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0678-valid-parenthesis-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -522,4 +527,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0785-is-graph-bipartite) |
+## Trie
+|  |
+| ------- |
+| [0472-concatenated-words](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0472-concatenated-words) |
 <!---LeetCode Topics End-->
