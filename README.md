@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0141-linked-list-cycle) |
 | [0187-repeated-dna-sequences](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0187-repeated-dna-sequences) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0022-generate-parentheses) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0043-multiply-strings](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0043-multiply-strings) |
 | [0079-word-search](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0093-restore-ip-addresses) |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0187-repeated-dna-sequences](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0424-longest-repeating-character-replacement) |
