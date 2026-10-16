@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0079-word-search) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0162-find-peak-element](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0162-find-peak-element) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0016-3sum-closest) |
 | [0061-rotate-list](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0061-rotate-list) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0141-linked-list-cycle) |
 | [0481-magical-string](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0481-magical-string) |
