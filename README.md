@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0043-multiply-strings) |
 | [0079-word-search](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0093-restore-ip-addresses) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0062-unique-paths) |
@@ -462,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0032-longest-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0316-remove-duplicate-letters](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0394-decode-string) |
@@ -523,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
