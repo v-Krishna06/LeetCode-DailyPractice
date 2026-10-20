@@ -324,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0190-reverse-bits](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0493-reverse-pairs) |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0078-subsets) |
 | [0187-repeated-dna-sequences](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0187-repeated-dna-sequences) |
+| [0190-reverse-bits](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0190-reverse-bits) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Game Theory
 |  |
