@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3488-closest-equal-element-queries](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/3488-closest-equal-element-queries) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0078-subsets) |
 | [0187-repeated-dna-sequences](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0187-repeated-dna-sequences) |
 | [0190-reverse-bits](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0190-reverse-bits) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Game Theory
 |  |
