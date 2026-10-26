@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3488-closest-equal-element-queries](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/3488-closest-equal-element-queries) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/3310-remove-methods-from-project) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0785-is-graph-bipartite) |
 | [1254-number-of-closed-islands](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1254-number-of-closed-islands) |
 | [3310-remove-methods-from-project](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/3310-remove-methods-from-project) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -546,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0079-word-search) |
 | [1254-number-of-closed-islands](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1254-number-of-closed-islands) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -577,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0785-is-graph-bipartite) |
 | [1254-number-of-closed-islands](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Coloring
 |  |
 | ------- |
