@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0074-search-a-2d-matrix) |
@@ -464,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0043-multiply-strings) |
+| [0059-spiral-matrix-ii](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0059-spiral-matrix-ii) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -558,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0074-search-a-2d-matrix) |
