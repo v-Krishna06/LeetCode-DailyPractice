@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1664-ways-to-make-a-fair-array](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1664-ways-to-make-a-fair-array) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/2094-finding-3-digit-even-numbers) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2094-finding-3-digit-even-numbers](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/2094-finding-3-digit-even-numbers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0078-subsets) |
 | [0187-repeated-dna-sequences](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0187-repeated-dna-sequences) |
 | [0190-reverse-bits](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0190-reverse-bits) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Game Theory
@@ -513,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0093-restore-ip-addresses) |
 | [0113-path-sum-ii](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0113-path-sum-ii) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 ## Stack
 |  |
 | ------- |
