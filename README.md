@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1200-minimum-absolute-difference) |
 | [1254-number-of-closed-islands](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1254-number-of-closed-islands) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0472-concatenated-words) |
 | [0912-sort-an-array](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0912-sort-an-array) |
 | [1200-minimum-absolute-difference](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1200-minimum-absolute-difference) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0141-linked-list-cycle) |
 | [0481-magical-string](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0481-magical-string) |
 | [0633-sum-of-square-numbers](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0633-sum-of-square-numbers) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## String
 |  |
@@ -355,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/2089-find-target-indices-after-sorting-array) |
