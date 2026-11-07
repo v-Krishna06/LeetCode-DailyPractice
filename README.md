@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1664-ways-to-make-a-fair-array](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1664-ways-to-make-a-fair-array) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1882-process-tasks-using-servers](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1882-process-tasks-using-servers) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0912-sort-an-array) |
 | [1405-longest-happy-string](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1405-longest-happy-string) |
+| [1882-process-tasks-using-servers](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Quickselect
 |  |
