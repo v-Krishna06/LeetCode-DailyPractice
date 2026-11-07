@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0095-unique-binary-search-trees-ii) |
 | [0099-recover-binary-search-tree](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0101-symmetric-tree) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0095-unique-binary-search-trees-ii) |
 | [0099-recover-binary-search-tree](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0101-symmetric-tree) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0064-minimum-path-sum) |
 | [0091-decode-ways](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0091-decode-ways) |
+| [0095-unique-binary-search-trees-ii](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0095-unique-binary-search-trees-ii) |
 | [0097-interleaving-string](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0097-interleaving-string) |
 | [0472-concatenated-words](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0472-concatenated-words) |
 | [0678-valid-parenthesis-string](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0678-valid-parenthesis-string) |
@@ -528,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0093-restore-ip-addresses) |
+| [0095-unique-binary-search-trees-ii](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0113-path-sum-ii) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
@@ -592,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0095-unique-binary-search-trees-ii) |
 | [0099-recover-binary-search-tree](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Suffix Array
