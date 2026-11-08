@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-beautiful-array](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0932-beautiful-array) |
 | [1200-minimum-absolute-difference](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1200-minimum-absolute-difference) |
 | [1254-number-of-closed-islands](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1267-count-servers-that-communicate) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
 | [1254-number-of-closed-islands](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/3310-remove-methods-from-project) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0404-sum-of-left-leaves) |
 | [0785-is-graph-bipartite](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0785-is-graph-bipartite) |
 | [1254-number-of-closed-islands](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1267-count-servers-that-communicate) |
 | [3310-remove-methods-from-project](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/3310-remove-methods-from-project) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
@@ -418,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0912-sort-an-array) |
+| [1267-count-servers-that-communicate](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1267-count-servers-that-communicate) |
 ## Linked List
 |  |
 | ------- |
@@ -590,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0079-word-search) |
 | [1254-number-of-closed-islands](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1267-count-servers-that-communicate) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/3665-twisted-mirror-path-count) |
@@ -625,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0785-is-graph-bipartite) |
 | [1254-number-of-closed-islands](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Coloring
 |  |
