@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0141-linked-list-cycle) |
+| [0345-reverse-vowels-of-a-string](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0481-magical-string](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0481-magical-string) |
 | [0633-sum-of-square-numbers](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0633-sum-of-square-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0097-interleaving-string) |
 | [0187-repeated-dna-sequences](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0187-repeated-dna-sequences) |
 | [0316-remove-duplicate-letters](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0316-remove-duplicate-letters) |
+| [0345-reverse-vowels-of-a-string](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0394-decode-string](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0424-longest-repeating-character-replacement) |
 | [0472-concatenated-words](https://github.com/v-Krishna06/LeetCode-DailyPractice/tree/master/0472-concatenated-words) |
